@@ -13,14 +13,14 @@ export const EXPERIENCES = [
     role: "Intern",
     company: "Eftychia Technologies",
     description: `Contributed to developing and deploying full-stack web applications using MongoDB, React.js, Node.js, and Express APIs. Created and deployed RESTful APIs for efficient data integration. Gained hands-on experience in optimizing web pages for user accessibility. Demonstrated a strong understanding of front-end and back-end technologies to ensure reliable project delivery."`,
-    technologies: ["Javascript", "React.js", "mongoDB","Express"],
+    technologies: ["Javascript", "React.js", "mongoDB", "Express"],
   },
   {
     year: "4 January - 4 February 2024",
-    role: "Internr",
+    role: "Intern",
     company: "Al Rushaid Technologies",
     description: `Explored enterprise resource planning systems, networking, and server management to understand their organizational applications. Contributed to planning and blueprinting processes to ensure project objectives are met. Engaged in security management with blockchain technologies to enhance operational resilience. Developed AI-driven digital solutions to implement innovative approaches for various business functions.`,
-    technologies: ["Enterprise Resource Planning", "Networking", "Server Management", "AI and Digital Solutions","Blockchain Technologies","Planning and Blueprinting","Security Managemnt"],
+    technologies: ["Enterprise Resource Planning", "Networking", "Server Management", "AI and Digital Solutions", "Blockchain Technologies", "Planning and Blueprinting", "Security Managemnt"],
   },
   {
     year: "12 February - 13 March 2023",
@@ -44,7 +44,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "Developed a social media app featuring user authentication, post management, and follow recommendations. Built with the MERN stack and Tailwind CSS for responsiveness, using Cloudinary for instant image uploads.",
-    technologies: ["MongoDB", "Express", "React", "TailwindCSS","Cloudinary","NodeJS"],
+    technologies: ["MongoDB", "Express", "React", "TailwindCSS", "Cloudinary", "NodeJS"],
   },
   {
     title: "Portfolio Website",
