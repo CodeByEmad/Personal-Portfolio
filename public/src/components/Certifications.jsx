@@ -9,7 +9,7 @@ const Certifications = () => {
                 initial={{ opacity: 0, y: -100 }}
                 transition={{ duration: 0.5 }}
                 className="my-20 text-center text-4xl">
-                Certifications
+                Certification
             </motion.h2>
             <div>
                 {CERTIFICATIONS.map((certifications, index) => (
