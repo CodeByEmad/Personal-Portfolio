@@ -2,8 +2,8 @@ import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.jpg";
-import certifications1 from "../assets/certifications/certifications1.png";
-import certifications2 from "../assets/certifications/certifications2.png";
+// import certifications1 from "../assets/certifications/certifications1.png";
+// import certifications2 from "../assets/certifications/certifications2.png";
 
 export const HERO_CONTENT = `I am a passionate full-stack developer with the best foundation for building highly efficient and visually appealing web applications. I am currently in my Final year of Computer Science Engineering from NMAMIT. Having hands-on experience across the MERN stack and having expertise in front-end technologies like React and Tailwind CSS, I create user-friendly interfaces and intuitive digital solutions. My technical journey includes the deployment of applications to the web, work with the most advanced ERP systems, and leverage AI-powered solutions for business applications. I will strive to apply my skills to creating impactful software that meets the needs of today and bears an imprint of enhancement for users.`;
 
@@ -64,22 +64,22 @@ export const PROJECTS = [
   },
 ];
 
-export const CERTIFICATIONS = [
-  {
-    title: "IBM Data Science",
-    image: certifications2,
-    description:
-      "In this Professional Certificate, learners developed hands-on skills in Data Science and Machine Learning, including Python, SQL, and Data Visualization, culminating in a Capstone Project.",
-    technologies: ["Data Analysis", "Machine Learning","Databases & SQL for Data Science","Data Science Methodologies"],
-  },
-  {
-    title: "Finance for Non-Financial Professional",
-    image: certifications1,
-    description:
-      "This course offers a foundational understanding of finance and accounting concepts to help impact financial decisions, improve profitability, and analyze financials.",
-    technologies: ["Financial Ratios", "Valuation", "Costing", "Financial Statements", "Financial Principles"],
-  },
-];
+// export const CERTIFICATIONS = [
+//   {
+//     title: "IBM Data Science",
+//     image: certifications2,
+//     description:
+//       "In this Professional Certificate, learners developed hands-on skills in Data Science and Machine Learning, including Python, SQL, and Data Visualization, culminating in a Capstone Project.",
+//     technologies: ["Data Analysis", "Machine Learning","Databases & SQL for Data Science","Data Science Methodologies"],
+//   },
+//   {
+//     title: "Finance for Non-Financial Professional",
+//     image: certifications1,
+//     description:
+//       "This course offers a foundational understanding of finance and accounting concepts to help impact financial decisions, improve profitability, and analyze financials.",
+//     technologies: ["Financial Ratios", "Valuation", "Costing", "Financial Statements", "Financial Principles"],
+//   },
+// ];
 
 export const CONTACT = {
   address: "Divya Enclave, Mangalore ,karnataka.India-575003 ",

@@ -1,5 +1,5 @@
 import About from "./components/About";
-import Certifications from "./components/Certifications";
+// import Certifications from "./components/Certifications";
 import Contact from "./components/Contact";
 import Experience from "./components/Experience";
 import Hero from "./components/Hero";
@@ -21,7 +21,7 @@ const App = () => {
       <Technologies />
       <Experience />
       <Projects />
-      <Certifications />
+      {/* <Certifications /> */}
       <Contact />
       </div>
     
